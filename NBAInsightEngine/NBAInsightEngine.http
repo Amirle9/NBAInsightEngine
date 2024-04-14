@@ -1,0 +1,6 @@
+@NBAInsightEngine_HostAddress = http://localhost:5224
+
+GET {{NBAInsightEngine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
